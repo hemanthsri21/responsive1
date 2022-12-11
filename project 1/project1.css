@@ -1,0 +1,56 @@
+h1,
+h3{
+    color: rgb(23, 20, 20);
+    font-weight: bolder;
+    text-shadow: whitesmoke 1px 1px 2px;
+    font-family: georgia;
+}
+h4 {
+    color: aliceblue;
+}
+
+a {
+    font-family: 'Trebuchet MS';
+
+}
+
+img {
+    max-height: 450px;
+}
+
+.carousel-inner {
+    max-width: 900px;
+}
+
+#first {
+    background-color: rgb(193, 192, 192);
+}
+
+#bar {
+    background-color: black;
+
+}
+
+#second {
+    /* position: relative; */
+    background-color: rgb(193, 192, 192);
+}
+
+#collection{
+    font-weight: bolder;
+    color: black;
+    text-shadow: 1px 1px 1px;
+}
+
+#third{
+    background-color: rgb(193, 192, 192);
+}
+
+#fourth{
+    background-color:rgb(193, 192, 192) ;
+}
+
+#first h2{
+    font-family: fantasy;
+    text-shadow: rgb(193, 192, 192) 1px 1px 3px;
+}
